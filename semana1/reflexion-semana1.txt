@@ -1,0 +1,10 @@
+El uso responsable de la información en internet, la participación ciudadana y el trabajo técnico 
+con herramientas como Git están conectados, porque los tres exigen compromiso, orden y ética. 
+Cuando una persona verifica la información antes de compartirla, está actuando como un ciudadano digital responsable
+igualmente un programador que documenta y organiza sus cambios en Git actúa con responsabilidad frente a su equipo.
+En ambos casos, las decisiones individuales afectan a los demás: una noticia falsa puede desinformar a miles de
+personas, así como un código mal puede dañar un proyecto completo. Git, como herramienta de control de versiones,
+enseña que cada acción deja un registro, que los cambios deben ser claros y justificados, un principio que también
+aplica a la participación ciudadana en internet, donde cada publicación o comentario tiene impacto real. 
+Además,así como Git permite que muchas personas colaboren en un mismo proyecto sin perder el control, la ciudadanía 
+digital consciente permite que comunidades enteras convivan de manera adecuada.
