@@ -1,0 +1,10 @@
+Mantener un registro de cambios en los proyectos de software es fundamental .
+En primer lugar, permite saber exactamente qué se modificó, quién
+lo hizo y en qué momento, lo que facilita encontrar errores y entender las modificaciones
+del proyecto. En segundo lugar, si algo sale mal, se puede volver a una versión
+anterior sin perder el trabajo realizado.
+Además, cuando varias personas trabajan en el mismo proyecto, Git permite que cada
+una trabaje en su parte sin borrar el trabajo de los demás. Esto hace que el trabajo
+en equipo sea más organizado y seguro. También ayuda a documentar el proyecto de
+forma automática, ya que cada commit describe qué se hizo. Git protegen el código,
+ mejoran la calidad del trabajo y la comunicación dentro del equipo de desarrollo.
