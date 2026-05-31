@@ -1,0 +1,9 @@
+¿Qué hace esta ruta?
+La ruta POST recibe un mensaje enviado por el usuario 
+y responde con una confirmación en formato JSON indicando 
+que el reporte fue recibido.
+
+¿Para qué serviría en una aplicación comunitaria?
+Serviría para que los miembros de una comunidad puedan enviar 
+reportes, alertas o situaciones que necesitan atención, como 
+problemas de servicios públicos, emergencias o solicitudes de ayuda.

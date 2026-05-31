@@ -1,0 +1,9 @@
+Las APIs permiten que las comunidades compartan información de manera 
+organizada porque funcionan como un canal de comunicación entre diferentes
+aplicaciones y personas. Por ejemplo, una comunidad podría tener una
+aplicación donde reportan desde su celular cuando el río empieza a subir
+de nivel, indicando el lugar exacto y qué tan grave es la situación.
+Esa información llegaría en tiempo real a la alcaldía, a la defensa civil y 
+a las comunidades cercanas en caso de evacuar antes de que el agua llegue a
+sus casas. Cada reporte quedaría registrado con toda la informacion completa
+y con el tiempo se podria crear mapas de riesgo y planificar mejor cómo protegerse. 
