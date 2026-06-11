@@ -1,0 +1,26 @@
+Ejemplos curso : 
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+
+Ejemplos propios : 
+
+Ejemplo 3:
+{
+  "tipo": "Salud",
+  "descripcion": "Criadero de mosquitos por agua estancada en barrio Dorado"
+}
+
+Ejemplo 4:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Quema de basura en exceso cerca de casas"
+}

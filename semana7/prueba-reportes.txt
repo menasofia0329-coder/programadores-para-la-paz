@@ -1,0 +1,13 @@
+Cuando se consulta la ruta GET /reportes, el servidor responde con la lista
+de reportes que han sido registrados usando la ruta POST /reportes.
+Después de enviar un reporte con POST, al consultar GET /reportes aparece
+el reporte guardado con su id, tipo y descripcion.
+
+Como use el ejemplo de respuesta , se muestra asi :
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
