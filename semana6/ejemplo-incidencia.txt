@@ -1,0 +1,17 @@
+EJEMPLO_1 : 
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+EJEMPLO_2 :
+{
+  "tipo": "Servicio de agua",
+  "descripcion": "La comunidad reporta que debido a las fuertes lluvias ,no tienen servicio de agua hace dos dias sin respuesta sobre cuando tendran el servicio disponible"
+}
+
+EJEMPLO_3: 
+{
+  "tipo": "Recolección de basuras",
+  "descripcion": "Los residentes reportan que hace más de una semana no pasa el camión recolector de basura, generando acumulación de residuos y malos olores en el sector."
+}

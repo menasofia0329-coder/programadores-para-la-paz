@@ -1,0 +1,10 @@
+Al enviar una petición POST a /registro con los datos nombre y mensaje,
+el servidor responde con un JSON que confirma la recepción:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto confirma que Express recibió correctamente los datos usando req.body.
