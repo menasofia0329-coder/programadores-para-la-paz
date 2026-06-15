@@ -1,0 +1,12 @@
+5 prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria, por ejemplo: 
+
+1. Establecer roles y permisos diferenciados para cada tipo de usuario, evitando que
+alguien acceda a secciones que no le corresponden. 
+2. Usar HTTPS en todas las conexiones para que los datos viajen cifrados entre los
+usuarios y el servidor. 
+3. Guardar un registro de los accesos y acciones importantes del 
+sistema, lo que permite detectar comportamientos sospechosos. 
+4. Actualizar regularmente el software del servidor y las dependencias para cerrar 
+vulnerabilidades conocidas. 
+5. Crear una contraseña diferente para cada servicio o herramienta que use 
+la plataforma, evitando repetir la misma clave en varios lugares.

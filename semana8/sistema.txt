@@ -1,0 +1,13 @@
+El comando "uname -a" mostró: Linux computador 6.18.33.1-microsoft-standard-WSL2
+#1 SMP PREEMPT_DYNAMIC Fri Jun 5 01:12:21 UTC 2026 x86_64 GNU/Linux.
+Este comando muestra el nombre del kernel, la versión del sistema operativo,
+la arquitectura del procesador (x86_64) y la fecha de compilación.
+Es útil en la administración de servidores porque permite verificar qué versión
+del sistema está corriendo, lo cual es necesario para aplicar actualizaciones
+de seguridad correctas y garantizar compatibilidad con el software instalado.
+
+El comando "whoami" mostró: menas.
+Este comando indica el nombre del usuario activo en la sesión actual.
+En un servidor es importante saberlo porque ciertos comandos requieren permisos
+de superusuario (root), y operar siempre como root sin necesidad representa
+un riesgo de seguridad para el sistema.

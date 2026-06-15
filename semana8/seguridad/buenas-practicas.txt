@@ -1,0 +1,4 @@
+3 prácticas básicas de seguridad digital :
+1. Cifrar los datos almacenados para evitar accesos no autorizados
+2. Activar autenticación de dos pasos en todas las cuentas del sistema
+3. Realizar copias de respaldo constantemente en ubicaciones externas seguras

@@ -1,0 +1,10 @@
+La seguridad digital es importante para proteger plataformas tecnológicas 
+que usan comunidades o procesos participativos ya que concentran información 
+sensible: identidades, opiniones, decisiones y datos de personas que confían en 
+que su información estará protegida. Si una plataforma comunitaria es vulnerada se 
+rompe la confianza entre la tecnología y las personas que la usan. Esto puede afectar
+procesos democráticos, organizaciones sociales o grupos minoritarios que dependen 
+de esos espacios para organizarse de forma segura.En el caso de activisimo, filtración 
+de datos como direccion o numero de telefono hace posible que la persona puede 
+sufrir acoso .La seguridad digital protege la democracia interna, la libertad de
+expresión y la seguridad de sus miembros
