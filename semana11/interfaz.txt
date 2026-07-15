@@ -1,0 +1,14 @@
+
+Interfaz básica de la plataforma comunitaria de reportes
+
+La interfaz tendría una sección para crear un nuevo reporte, con campos para seleccionar el tipo de incidencia (alumbrado, vía,
+agua, seguridad), una descripción breve y la ubicación general del problema.
+
+También tendría una vista de reportes disponibles, mostrando su estado actual (pendiente, en revisión o resuelto), para que
+cualquier usuario pueda consultar en qué va cada caso.
+
+Cada reporte tendría un botón para "dar seguimiento", que permite a otros usuarios manifestar interés en el caso, junto con
+un contador que muestre cuántas personas están siguiendo esa incidencia.
+
+La interfaz debe ser clara y sencilla, priorizando la facilidad de uso para personas sin experiencia técnica, y no debe 
+mostrar información privada de quienes reportan ni de los voluntarios asignados.

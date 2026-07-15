@@ -1,0 +1,28 @@
+Modelo de datos para plataforma comunitaria
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo (ej: alumbrado, vía, agua, seguridad)
+- descripcion
+- ubicacion_general
+- fecha
+- estado (pendiente, en revisión, resuelto)
+
+Propósito:
+Registrar las incidencias o problemas que la comunidad identifica en su entorno, para hacer seguimiento hasta su resolución.
+
+
+Entidad: Voluntario
+
+Campos principales:
+- id
+- alias
+- rol (coordinador, colaborador, veedor)
+- reportes_asignados
+- fecha_ingreso
+
+Propósito:
+Guardar la información básica de las personas que colaboran activamente revisando y dando seguimiento a los reportes, sin exponer 
+datos personales sensibles como nombre completo o número de documento.

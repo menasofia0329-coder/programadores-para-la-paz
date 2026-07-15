@@ -1,0 +1,10 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita una base de datos porque es la forma 
+de conservar de manera ordenada toda la información que la comunidad genera, como reportes, seguimientos y avances,
+evitando que se pierda o se maneje de forma dispersa en archivos sueltos.
+La autenticación de usuarios es igual de importante porque permite diferenciar quién puede simplemente consultar
+información y quién tiene permisos para modificar, asignar o cerrar un caso, evitando que personas no autorizadas
+alteren datos sensibles del proceso comunitario.
+La protección de información es fundamental porque muchos de los datos que se manejan pueden identificar directamente 
+a las personas que participan, y exponerlos sin control podría generar riesgos de seguridad, desconfianza o incluso 
+represalias contra quienes denuncian una situación. En conjunto, estos tres elementos permiten construir una plataforma 
+confiable, donde la comunidad siente que su participación es útil, ordenada y, sobre todo, segura.

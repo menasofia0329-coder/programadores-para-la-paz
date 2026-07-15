@@ -1,0 +1,8 @@
+El login es el proceso mediante el cual una aplicación identifica a un usuario, generalmente pidiendo un nombre de 
+usuario o correo y una contraseña, antes de permitirle acceder a ciertas funciones del sistema.
+Algunas rutas deben estar protegidas porque no toda la información debe ser pública: por ejemplo, el panel donde se 
+gestionan los reportes internos, se asignan voluntarios o se editan estados de las incidencias, solo debería estar 
+disponible para usuarios autenticados con un rol autorizado, evitando que cualquier persona pueda modificar o eliminar 
+información sin control. No se debe exponer públicamente información como contraseñas, números de documento de identidad,
+teléfonos personales, direcciones exactas, tokens de acceso, claves de API ni datos que permitan identificar directamente 
+a un ciudadano que reportó una incidencia, protegiendo así su privacidad y evitando represalias.
