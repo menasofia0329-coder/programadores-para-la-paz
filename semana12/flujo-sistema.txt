@@ -1,0 +1,10 @@
+Flujo del sistema "Petición en 3 Clics"
+
+1. Un vecino identifica una necesidad comunitaria y crea una petición (ej: solicitar la reparación de un parque).
+2. La petición queda almacenada en la base de datos con un estado inicial de "abierta".
+3. Otros miembros de la comunidad ingresan a la plataforma y pueden apoyar la petición con un solo clic.
+4. El sistema actualiza en tiempo real el contador de apoyos asociados a esa petición.
+5. Al alcanzar un número mínimo de apoyos (ej: 50 firmas), el sistema genera automáticamente un documento PDF formal con el 
+resumen de la petición y el total de apoyos.
+6. Se envía una notificación por Telegram al coordinador comunitario informando que la petición está lista para ser presentada 
+ante la entidad correspondiente.

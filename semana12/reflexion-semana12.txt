@@ -1,0 +1,9 @@
+Durante el curso aprendí que la tecnología puede convertirse en una herramienta real para fortalecer 
+la organización comunitaria, no solo automatizando tareas, sino facilitando que más personas participen sin barreras técnicas.
+Comprendí que estructurar el trabajo con metodologías ágiles y un backlog permite priorizar lo verdaderamente importante,
+avanzando en pasos pequeños en lugar de intentar resolver todo de una vez. También aprendí que una base de datos bien diseñada y 
+un sistema de autenticación adecuado son esenciales para que la información comunitaria esté organizada y protegida,
+evitando exponer datos sensibles de quienes participan. Herramientas como n8n y Telegram me mostraron que la 
+automatización no reemplaza el criterio humano, sino que libera tiempo para que las personas se enfoquen en decisiones
+importantes, mientras el sistema se encarga de las notificaciones repetitivas. Este curso me permitió entender que la tecnología,
+ usada de forma responsable, puede ser un puente  entre la ciudadanía y la solución de sus propias necesidades.

@@ -1,0 +1,28 @@
+Modelo de datos para "Petición en 3 Clics"
+
+Entidad: Peticion
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria (ej: infraestructura, salud, educación)
+- fecha_creacion
+- estado (abierta, en trámite, cerrada)
+
+Propósito:
+Almacenar cada solicitud formal que la comunidad desea impulsar, permitiendo darle seguimiento desde su creación hasta
+su cierre.
+
+
+Entidad: Firma
+
+Campos principales:
+- id
+- peticion_id
+- alias_usuario
+- fecha
+
+Propósito:
+Registrar cada apoyo individual que recibe una petición, sin guardar datos personales completos, para poder contar el
+total de respaldos y generar el documento final.

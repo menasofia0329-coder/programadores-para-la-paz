@@ -1,0 +1,10 @@
+Automatización propuesta (n8n + Telegram)
+
+Evento: una petición alcanza el número mínimo de firmas requeridas (ej: 50 firmas).
+
+Mensaje enviado: "La petición 'Mejoramiento del parque infantil' alcanzó el mínimo de apoyos necesarios.
+El documento PDF ya fue generado y está listo para ser presentado ante la entidad correspondiente."
+
+Información que no debe enviarse por seguridad:
+Nombres completos de los firmantes, números de cédula, teléfonos personales, direcciones exactas de vivienda, 
+ni ningún comentario privado que los ciudadanos hayan dejado al momento de firmar.
