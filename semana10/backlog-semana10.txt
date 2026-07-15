@@ -1,0 +1,9 @@
+1. Como líder comunitario quiero publicar una convocatoria en Telegram para invitar a los vecinos a una reunión de veeduría.
+
+2. Como ciudadano quiero reportar un daño en el alumbrado público para que sea atendido por la entidad responsable.
+
+3. Como coordinador quiero recibir una notificación automática cuando se registre un nuevo reporte para no perder tiempo revisando manualmente.
+
+4. Como voluntario quiero consultar el estado de los reportes pendientes para saber en qué casos debo hacer seguimiento.
+
+5. Como administrador del proyecto quiero generar un resumen semanal de reportes para presentarlo en la reunión comunitaria.

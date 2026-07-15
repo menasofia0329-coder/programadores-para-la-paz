@@ -1,0 +1,10 @@
+Las metodologías ágiles permiten organizar el trabajo comunitario en pasos pequeños y manejables,
+priorizando primero lo que genera mayor impacto para la comunidad. Esto evita que los proyectos 
+se paralicen por intentar resolver todo al mismo tiempo. Herramientas como el backlog ayudan a 
+que cualquier persona del equipo entienda qué se está haciendo y por qué.
+La automatización, mediante herramientas como n8n reduce el trabajo manual repetitivo, permitiendo que 
+los coordinadores dediquen su tiempo a tareas que realmente requieren criterio humano, como analizar un 
+caso o decidir cómo actuar frente a un reporte. Canales como Telegram facilitan la comunicación inmediata y
+masiva con la comunidad, permitiendo convocar, informar y dar seguimiento a los procesos de participación
+ciudadana en tiempo real, fortaleciendo la confianza y la transparencia del proceso. Estas herramientas
+ hacen que un proceso de veeduría o participación ciudadana sea más ordenado, trazable y sostenible en el tiempo.

@@ -1,0 +1,21 @@
+¿Qué 2 tareas del backlog harías primero?
+
+1. Como ciudadano quiero reportar un daño en el alumbrado público para que sea atendido por la entidad responsable.
+2. Como coordinador quiero recibir una notificación automática cuando se registre un nuevo reporte para no perder tiempo 
+revisando manualmente.
+
+¿Por qué son las más importantes?
+Estas dos tareas son la base del sistema: sin la posibilidad de registrar un reporte no existe información que gestionar, y sin
+la notificación automática el equipo coordinador no se entera a tiempo de los nuevos casos. Ambas resuelven el flujo mínimo 
+necesario para que la solución sea útil desde el primer momento.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+Para mí, que una tarea esté terminada significa que no solo fue programada, sino que realmente funciona en un caso real, 
+fue verificada por alguien más además de quien la creó, y quedó documentada y guardada de forma que el resto del equipo 
+pueda encontrarla y usarla sin depender de una sola persona.
+
+Definición de "terminado" (al menos 3 criterios):
+- Funciona: la funcionalidad opera sin errores en un caso de prueba real.
+- Fue probada: se verificó manualmente al menos una vez con datos ficticios.
+- Quedó registrada en Git: el código fue subido y versionado en el repositorio.
+- No expone datos personales ni información sensible.

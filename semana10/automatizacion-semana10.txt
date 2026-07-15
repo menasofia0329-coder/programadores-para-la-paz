@@ -1,0 +1,14 @@
+Flujo de automatización propuesto (n8n + Telegram):
+
+¿Qué evento activa el flujo?
+La llegada de una fecha programada para una reunión de veeduría comunitaria (activada por un recordatorio 
+semanal configurado en n8n, por ejemplo cada lunes a las 8:00 a.m.).
+
+¿Qué mensaje se enviaría a Telegram?
+"Recordatorio: este jueves a las 6:00 p.m. se realizará la reunión de veeduría comunitaria en el salón comunal. 
+Su participación es importante para dar seguimiento a los compromisos pendientes."
+
+¿Qué información no debería enviarse por seguridad?
+No se debe enviar: la dirección exacta de la vivienda de los asistentes, números de teléfono personales, 
+nombres completos de menores de edad, datos de identificación como cédulas, ni información privada sobre
+casos individuales que estén en proceso de revisión.

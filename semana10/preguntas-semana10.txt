@@ -1,0 +1,11 @@
+1¿Qué es un backlog? 
+B.  Una lista priorizada de tareas o funcionalidades por desarrollar.
+
+2¿Qué es una historia de usuario? 
+B. Una forma breve de expresar qué necesita un usuario y para qué lo necesita.
+
+3¿Propósito de n8n? 
+B. Automatizar tareas repetitivas y notificaciones de seguimiento no sensibles.
+
+4¿Para qué sirve Telegram? 
+B.  Como canal de coordinación, convocatoria y notificación comunitaria.
